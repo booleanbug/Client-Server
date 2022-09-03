@@ -10,3 +10,5 @@
   <p>7.The client then reads the reply from the server.</p>
   <p>8.The server must reply to the client.</p>
   <p>9.The client asks the user for the next message to send to the server.</p>
+  <img src = "1.png"></img>
+  <img src = "2.png"></img>
