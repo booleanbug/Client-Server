@@ -12,3 +12,4 @@
   <p>9.The client asks the user for the next message to send to the server.</p>
   <img src = "1.jpg"></img>
   <img src = "2.jpg"></img>
+  <a href="https://booleanbug.hashnode.dev/client-server-program-in-python">link</a>
